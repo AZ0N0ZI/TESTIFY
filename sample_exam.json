@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "name": "Math",
+      "time_minutes": 20,
+      "items": [
+        {
+          "q": "What is 12 \u00d7 8?",
+          "choices": [
+            "96",
+            "88",
+            "108",
+            "120"
+          ],
+          "ans": "A",
+          "passage": ""
+        },
+        {
+          "q": "Solve for x: 3x + 9 = 0",
+          "choices": [
+            "-3",
+            "0",
+            "3",
+            "-9"
+          ],
+          "ans": "A",
+          "passage": ""
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "time_minutes": 15,
+      "items": [
+        {
+          "q": "According to the passage, why do whales migrate?",
+          "choices": [
+            "For food",
+            "For fun",
+            "For warmth",
+            "For safety"
+          ],
+          "ans": "A",
+          "passage": "Whales migrate each year to reach warmer waters where food is plentiful."
+        }
+      ]
+    }
+  ]
+}
